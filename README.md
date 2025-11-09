@@ -1,8 +1,8 @@
-# 🎵 Music Visualizer
+# 🎵Rhythmograph-- Music Visualizer
 
 A real-time audio visualization application built with Python that transforms music into stunning visual displays. Features multiple visualization modes including geometric shapes, graphs, Klein bottles, and 4D tesseract projections.
 
-![Music Visualizer Demo](media/2021-09-21_11-53-22.mp4)
+
 
 ## ✨ Features
 
